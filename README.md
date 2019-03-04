@@ -1,5 +1,7 @@
 # Soluevo
-Soluevo nasceu buscando inovação evoluindo a cada novo desafio
+Soluevo nasceu buscando inovação evoluindo a cada novo desafio. 
+Somos uma empresa de desenvolvimento de software atendendo desde Startup's até pequenas e médias empresas, estamos criando nossa cultura de trabalho remoto para poder crescer de forma sustentável.
+Procuramos talentos para poder crescer junto com a empresa e se tornar o diferencial no mercado brasileiro.
 
 ## Como eu faço para trabalhar na Soluevo?
 
